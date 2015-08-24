@@ -1,0 +1,9 @@
+{
+    "scope": "source.python",
+    "completions": [
+        { "trigger": "i", "contents": "import $1" },
+        { "trigger": "ia", "contents": "import $1 as $2" },
+        { "trigger": "fi", "contents": "from $1 import $2" },
+        { "trigger": "fia", "contents": "from $1 import $2 as $3" }
+    ]
+}

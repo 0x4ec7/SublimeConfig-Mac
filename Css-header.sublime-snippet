@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/*
+ * Created on ${1}
+ *
+ * @author 仇之东
+ */
+${2}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>csshd</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.css</scope>
+</snippet>

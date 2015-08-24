@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SyncedSideBar",
+		"Tag"
+	]
+}
