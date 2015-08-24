@@ -1,0 +1,5 @@
+Package Control.cache
+*.last-run
+*.merged-ca-bundle
+*.user-ca-bundle
+*.system-ca-bundle
