@@ -1,4 +1,5 @@
 {
     "anaconda_linter_mark_style": "none",
     "anaconda_linter_show_errors_on_save": true,
+    "python_interpreter": "/Library/Frameworks/Python.framework/Versions/3.4/bin/python"
 }
