@@ -3,5 +3,9 @@
     { "keys": ["ctrl+q"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["ctrl+shift+,"], "command": "add_date" },
     { "keys": ["ctrl+shift+."], "command": "add_time" },
-    { "keys": ["command+r"], "command": "refresh_folder_list"}
+    { "keys": ["command+r"], "command": "refresh_folder_list" },
+    { "keys": ["command+alt+,"], "command": "jump_back" },
+    { "keys": ["command+alt+."], "command": "jump_forward" },
+    { "keys": ["command+alt+/"], "command": "goto_definition" },
+    { "keys": ["command+alt+z"], "command": "toggle_side_bar"}
 ]
