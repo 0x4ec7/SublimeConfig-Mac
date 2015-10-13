@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -10,7 +11,9 @@
 		"BracketHighlighter",
 		"ColorPicker",
 		"Emmet",
+		"ExpandRegion",
 		"GitGutter",
+		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
