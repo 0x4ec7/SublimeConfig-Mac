@@ -3,4 +3,5 @@
     "line_padding_bottom": 2,
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
+    "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
 }
