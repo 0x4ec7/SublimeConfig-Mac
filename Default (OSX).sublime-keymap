@@ -7,6 +7,7 @@
     { "keys": ["command+alt+,"], "command": "jump_back" },
     { "keys": ["command+alt+."], "command": "jump_forward" },
     { "keys": ["command+alt+/"], "command": "anaconda_goto" },
+    { "keys": ["command+alt+'"], "command": "goto_definition" },
     { "keys": ["command+alt+z"], "command": "toggle_side_bar"},
     { "keys": ["ctrl+u"], "command": "upper_case"},
     { "keys": ["ctrl+l"], "command": "lower_case"}
