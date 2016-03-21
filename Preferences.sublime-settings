@@ -11,11 +11,12 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"reveal-on-activate": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"theme": "Material-Theme.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"rulers": [
+	"rulers":
+	[
 		79
 	],
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

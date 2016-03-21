@@ -1,5 +1,5 @@
 {
-    "anaconda_linter_delay": 0.1,
+    "anaconda_linter_delay": 0.5,
     "anaconda_linter_persistent": true,
     "anaconda_linter_mark_style": "none",
     "anaconda_linter_show_errors_on_save": true,
